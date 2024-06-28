@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikias-tacain-b94055241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-teves/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/manuel-teves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-teves/" height="30" width="40" /></a>
 </p>
 <h3>Sobre mi</h3>
 
