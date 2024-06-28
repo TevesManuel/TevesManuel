@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Manuel Teves</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="">Manuel Teves</a> 👋</h1>
 </div>
 <h3 align="center">Conéctate conmigo:</h3>
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikias-tacain-b94055241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikias-tacain-b94055241/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikias-tacain-b94055241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-teves/" height="30" width="40" /></a>
 </p>
 <h3>Sobre mi</h3>
 
