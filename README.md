@@ -20,6 +20,7 @@
 - Rust
 - C/C++
 - Python
+- Go
 - Java
 
 ### ⚙️ &nbsp;GitHub Analytics
