@@ -10,7 +10,7 @@
 <h3>Sobre mi</h3>
 
 - 💻 Software developer
-- ✏️ Estudiante EESTN°6 "Alberth Tomas", Tecnicatura en electronica
+- ✏️ Estudiante EESTN°6 "Alberth Tomas", Tecnico cientifico especifico en electronica 🛠️
 - 📗  Siempre aprendiendo
 <br>
 
