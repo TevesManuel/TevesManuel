@@ -19,6 +19,7 @@
 - Fullstack MERN ( MongoDB, ExpressJS, ReactJS, NodeJS )
 - Rust
 - C/C++
+- C#
 - Python
 - Go
 - Java
