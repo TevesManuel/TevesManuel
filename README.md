@@ -30,6 +30,6 @@
   <a href="https://github.com/TevesManuel">
     <img width=800 src="https://github-profile-trophy.vercel.app/?username=TevesManuel&column=8&theme=algolia&no-frame=true&row=1"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TevesManuel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TevesManuel&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TevesManuel&layout=compact&langs_count=10&theme=algolia&hide=css,html"/>
   </a>
 </p>
