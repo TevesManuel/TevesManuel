@@ -10,7 +10,8 @@
 <h3>Sobre mi</h3>
 
 - 💻 Software developer
-- ✏️ Estudiante EESTN°6 "Alberth Tomas", Tecnico cientifico especifico en electronica 🛠️
+- ✏️ Estudiante UNLP, Licenciatura en informatica 👨‍💻
+- 🛠️ Tecnico cientifico especifico en electronica, EESTN°6 "Alberth Tomas"
 - 📗  Siempre aprendiendo
 <br>
 
