@@ -11,7 +11,7 @@
 
 - 💻 Software developer
 - ✏️ Estudiante UNLP, Licenciatura en informatica 👨‍💻
-- 🛠️ Tecnico cientifico especifico en electronica, EESTN°6 "Alberth Tomas"
+- 🛠️ Tecnico en electronica, EESTN°6 "Alberth Tomas"
 - 📗  Siempre aprendiendo
 <br>
 
