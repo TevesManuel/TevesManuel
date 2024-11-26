@@ -13,6 +13,7 @@
 - ✏️ Estudiante UNLP, Licenciatura en informatica 👨‍💻
 - 🛠️ Tecnico en electronica, EESTN°6 "Alberth Tomas"
 - 📗  Siempre aprendiendo
+</br>
 
 <h3>Habilidades destacadas:</h3>
 
@@ -23,6 +24,7 @@
 - Go
 - C#
 - Java
+</br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
