@@ -10,7 +10,7 @@
 <h3>Sobre mi</h3>
 
 - 💻 Software developer
-- ✏️ Estudiante UNLP, Licenciatura en informatica 👨‍💻
+- ✏️ Estudiante UNLP, Ingeniería en computacion 👨‍💻
 - 🛠️ Tecnico en electronica, EESTN°6 "Alberth Tomas"
 - 📗  Siempre aprendiendo
 </br>
