@@ -17,9 +17,9 @@
 
 <h3>Habilidades destacadas:</h3>
 
-- Fullstack MERN ( MongoDB, ExpressJS, ReactJS, NodeJS )
 - Rust
 - C/C++
+- Fullstack MERN ( MongoDB, ExpressJS, ReactJS, NodeJS )
 - Python
 - Go
 - C#
