@@ -11,6 +11,7 @@
 
 - 💻 Software developer
 - ✏️ Estudiante UNLP, Ingeniería en computacion 👨‍💻
+- 💼 Supervisor del laboratorio INFOTEC-UNITEC en la UNLP
 - 🛠️ Tecnico en electronica, EESTN°6 "Alberth Tomas"
 - 📗  Siempre aprendiendo
 </br>
