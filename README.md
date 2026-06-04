@@ -9,7 +9,7 @@
 </p>
 <h3>Sobre mi</h3>
 
-- 💻 Founder <a href="https://tvs.ar" target="_blank">Teves Tech</a>
+- 💻 Founder <a href="https://tvs.ar" target="blank">Teves Tech</a>
 - ✏️ Estudiante UNLP, Ingeniería en computacion 👨‍💻
 - 💼 Ex-Supervisor del laboratorio INFOTEC-UNITEC en la UNLP
 - 🛠️ Tecnico en electronica, EESTN°6 "Alberth Tomas"
